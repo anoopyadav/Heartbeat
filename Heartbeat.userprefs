@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{737BDF74-9A93-4963-8288-1A65FA889E0B}|Default">
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="Heartbeat/Program.cs" Line="15" Column="13" />
+      <File FileName="Heartbeat/Parser/WorkoutParser.cs" Line="44" Column="85" />
+      <File FileName="Statify/MainActivity.cs" Line="8" Column="41" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Heartbeat PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Statify AndroidDesignerPreferredDevice="Nexus 4" />
+  <MultiItemStartupConfigurations />
+</Properties>
