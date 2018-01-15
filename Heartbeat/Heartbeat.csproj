@@ -43,10 +43,12 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Models\Position.cs" />
+    <Compile Include="Models\Summary.cs" />
     <Compile Include="Models\Trackpoint.cs" />
     <Compile Include="Parser\WorkoutParser.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Statistics\DailyWorkout.cs" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="SampleData\20171017.tcx">

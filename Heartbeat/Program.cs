@@ -8,12 +8,11 @@ namespace Heartbeat
         public static void Main(string[] args)
         {
             WorkoutParser parser = new WorkoutParser();
-            parser.ParseXml();
 
-            foreach (var result in parser.GetWorkoutSummary())
-            {
-                Console.WriteLine($"{result.Key}{result.Value}");
-            }
+//            foreach (var result in parser.GetWorkoutSummary())
+//            {
+//                Console.WriteLine($"{result.Key}{result.Value}");
+//            }
         }
     }
 }

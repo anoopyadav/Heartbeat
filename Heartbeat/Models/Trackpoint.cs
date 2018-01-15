@@ -1,7 +1,6 @@
 ﻿using System;
-using Heartbeat.Models;
 
-namespace Heartbeat
+namespace Heartbeat.Models
 {
     public class Trackpoint
     {
